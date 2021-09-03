@@ -2,9 +2,9 @@ name: Django CI
 
 on:
   push:
-    branches: [ TamilBots ]
+    branches: [ SongPlayRoBots ]
   pull_request:
-    branches: [ TamilBots ]
+    branches: [ SongPlayRoBots ]
 
 jobs:
   build:
